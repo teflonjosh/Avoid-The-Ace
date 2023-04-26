@@ -1,0 +1,83 @@
+/* Page Setting */ 
+main {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/da/Crapslayout.png");
+    opacity: 0.95;
+    z-index: -1;
+    background-size: cover;
+    text-align: center;
+    color: black;
+    min-height: 100%;
+    padding-bottom: 5px;
+    padding-top: .001px;
+    padding-left: 2px;
+    margin:auto;
+  }
+  header {
+    background-color: rgb(242, 211, 10);
+    text-align: center;
+    position: sticky;
+    max-width: auto;
+    z-index: 999;
+    padding: 3px;
+  }
+  Footer {
+    background-color: rgb(242, 211, 10);
+    max-width: auto;
+    padding: 5px;
+    margin-top: 10px;
+  }  
+  img {
+    width: 125px;
+    height: 202px;
+  }
+  /* Row Spacing */ 
+    .first-row {
+      margin-top: 42px;
+      text-align: center;
+      margin-bottom: 22px;
+    }
+    .second-row {
+      margin: 0 auto;
+      width: 400px;
+    }
+    .card-row {
+      text-align: center;
+    }
+    .start-row {
+      text-align: center;
+    }
+    .card-frame {
+      cursor: pointer;
+      padding: 10px;
+    }
+    .start-row {
+      margin: auto;
+      width: 150px;
+      height: 50px;
+      padding: auto;
+      background-color: #dc1515;
+      border: solid black 5px;
+      padding-top: 22px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 16px;
+      border-radius: 10px;
+    }
+  /* Text */ 
+      .score-text {
+        display: inline;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(242, 211, 10);
+      }
+      .images, a {
+        text-align: left;
+        font-size: 8px;
+      }
+      a {
+        color: black;
+      }
+      h2, h3, p {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+      li:hover, a:hover, p:hover {
+        font-size: 200%;
+      }
+  
