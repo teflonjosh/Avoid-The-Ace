@@ -16,7 +16,7 @@ Web application / JS browser game
 
 ## Acknowledgements
 
- - Originally a [Codeacademy](www.codeacademy.com) JavaScript project "The Chore Bot" - a variation of the three-door game
+ - Originally a [Codecademy](www.codecademy.com) JavaScript project "The Chore Bot" - a variation of the three-door game
   - All images/quotes are from Public Domain and referenced on page. 
 
   ## 
